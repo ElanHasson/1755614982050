@@ -1,0 +1,28 @@
+{
+  "name": "die-auswirkung-von-schlafmangel-auf-die-leistungsf-higkeit-in-der-software-entwicklung",
+  "version": "1.0.0",
+  "cacheDirectories": [
+    ".next/cache"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.12",
+    "mermaid": "^11.9.0",
+    "next": "^15.4.7",
+    "react": "^19.1.1",
+    "react-dom": "19.1.1",
+    "react-markdown": "^10.1.0",
+    "react-syntax-highlighter": "^15.6.1",
+    "recharts": "^3.1.2",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.10",
+    "typescript": "^5.9.2"
+  }
+}
